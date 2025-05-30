@@ -1,0 +1,18 @@
+@import url(/styles/apresentacao.css);
+@import url(/styles/header.css);
+@import url(/styles/carrossel.css);
+@import url(/styles/flashcard.css);
+
+
+:root {
+    --cor-principal: #B250BC;
+    --cor-secundaria: #d11097;
+    --cor-rosa: #FF6F91;
+    --cor-roxa: #7c08e9;
+    --cor-fundo: #812785;
+    --cor-escrita: #5c0c3d;
+    --cor-botao: #7b0ae6;
+    --cor-preto: #000000;
+    --cor-branco: #ffffff;
+}
+
